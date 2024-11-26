@@ -1,0 +1,24 @@
+body {
+    background-color: #253342;
+}
+
+.sanduhr {
+    display: flex;
+    margin-left: 42.5px;
+    margin-top: 100px;
+}
+
+
+.timer {
+    font-size: 60px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 30px;
+    margin-left: 75px;
+}
+
+.start {
+    display: flex;
+    margin-left: 70px;
+    margin-top: 50px;
+}
